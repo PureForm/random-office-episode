@@ -12,7 +12,7 @@ With the simple click of a button, we'll kick you over the Netflix to watch a ra
 - Click the button, The Office starts playing. Pretty simple!
 - I guess there's just the one feature..
 
-## Furute features
+## Future features
 - The option to blacklist certain episodes or seasons which you would rather not see.
 
 ## Contributing
