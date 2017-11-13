@@ -14,7 +14,6 @@
   },
 
   "browser_action": {
-    // https://commons.wikimedia.org/wiki/File:Dunder_Mifflin,_Inc.svg
     "default_icon": {
       "16": "images/icon16.png",
       "48": "images/icon48.png",
