@@ -6,7 +6,7 @@ With the simple click of a button, we'll kick you over the Netflix to watch a ra
 
 ## Install
 - Firefox: https://addons.mozilla.org/en-US/firefox/addon/random-office-episode/
-- Chrome: https://chrome.google.com/webstore/detail/mkpmdndgoofaejbjgjmgcabhekahdijh
+- Chrome: https://chrome.google.com/webstore/detail/random-office-episode/mkpmdndgoofaejbjgjmgcabhekahdijh
 
 ## Features
 - Click the button, The Office starts playing. Pretty simple!
